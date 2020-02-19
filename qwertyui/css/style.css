@@ -1,0 +1,54 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.six {
+  background-image: url(https://quattro.true-emotions.studio/wp-content/uploads/2018/12/xl-red.jpg);
+  background-position: center;
+  background-size: cover;
+  padding: 4rem 0;
+  overflow: hidden;
+}
+.six .six-left .sixtext {
+  padding: 15px 0px 117px 35px;
+}
+.six .six-left .sixtext p {
+  color: #bbbbbb;
+  font-size: 16px;
+}
+.six .six-left .sixtext h3 {
+  color: #ffffff;
+  font-size: 31px;
+}
+.six .six-left .six-image {
+  position: relative;
+  padding: 15px 0px 0px 0px;
+}
+.six .six-left .six-image img {
+  width: 95%;
+}
+.six .six-right {
+  padding: 0px 0px 0px 50px;
+}
+.six .six-right .left-text {
+  position: relative;
+  padding: 0px 0px 15px 0px;
+}
+.six .six-right .left-text i {
+  font-size: 70px;
+  color: #ff383f;
+  padding: 0px 0px 20px 0px;
+}
+.six .six-right .left-text span {
+  position: absolute;
+  top: 30px;
+  left: 80px;
+  color: #bbbbbb;
+}
+.six .six-right .left-text p {
+  color: #bbbbbb;
+  font-size: 15px;
+}
+
+/*# sourceMappingURL=style.css.map */
